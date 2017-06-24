@@ -22,7 +22,11 @@
 hs_err_pid*
 
 ### NetBeans ###
+manifest.mf
+nbproject/
+lib/
 nbproject/private/
+build.xml
 build/
 nbbuild/
 dist/
